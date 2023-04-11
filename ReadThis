@@ -1,0 +1,4 @@
+# Number-Generator
+This Is my first code on GitHub, I hope it's useful.
+This code will only generate randon numbers every 5 seconds with a countdown.
+Here Is a better description: This code sets up a timer to fire every 5 seconds, and when the timer fires, it generates and displays a random number. Meanwhile, the program also displays a countdown that decrements every second until it reaches 0. Once the countdown is complete, the program stops running.
